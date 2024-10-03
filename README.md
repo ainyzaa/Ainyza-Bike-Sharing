@@ -1,2 +1,2 @@
-# Bike-Sharing-
-Projek Dicoding Analisis dengan Python
+# Submission Dicoding "Belajar Analisis Data dengan Python"
+Projek Dicoding by Ainyza Mayzahrah
