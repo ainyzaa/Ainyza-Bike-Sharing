@@ -14,13 +14,13 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/richalfajril/richal-bike-sharing-data-set.git
+   git clone https://github.com/ainyzaa/Ainyza-Bike-Sharing.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd richal-bike-sharing-data-set
+   cd Ainyza-Bike-Sharing
    ```
 
 3. **Create a virtual environment**:
@@ -48,7 +48,7 @@
 
 6. **Run the Streamlit app**:
    ```bash
-   streamlit run dashboard/app.py
+   streamlit run dashboard.py
    ```
 
 ## Deployment
