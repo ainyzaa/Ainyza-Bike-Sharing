@@ -1,8 +1,8 @@
 # Bike Sharing Data Analysis Project
 
-**Author**: 'A
-**Email**: m200b4ky2363@bangkit.academy
-**ID Dicoding**: richalfajril
+**Author**: 'Ainyza Mayzahrah
+**Email**: m284b4kx0255@bangkit.academy
+**ID Dicoding**: m284b4kx0255
 
 ## Streamlit
 
