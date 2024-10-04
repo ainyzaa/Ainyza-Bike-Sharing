@@ -1,12 +1,13 @@
 # Bike Sharing Data Analysis Project
 
-**Author**: 'Ainyza Mayzahrah
-**Email**: m284b4kx0255@bangkit.academy
+**Author**: 'Ainyza Mayzahrah  
+**Email**: m284b4kx0255@bangkit.academy  
 **ID Dicoding**: m284b4kx0255
 
 ## Streamlit
-
-
+**Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
+Open this with the link below
+[Streamlit Deploy](https://ainyza-bike-sharing-6tmdmxmvzzhwrqjffytchv.streamlit.app/)
 
 
 ## Installation
@@ -51,11 +52,7 @@
    streamlit run dashboard.py
    ```
 
-## Deployment
-
-This app is deployed on Streamlit Cloud. You can view the live version [here](https://richalfajril-dicoding.streamlit.app/).
-
-## Dependencies
+## Library
 
 - Python 3.x
 - pandas
